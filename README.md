@@ -9,7 +9,7 @@ A linux command line utility : Random Information Generator (rig) was a major in
 ## How to run the code
 You can run the code normally by entering:
 ```
-python3.5 random -information-generator.py
+python3.5 random-information-generator.py
 ```
 
 ### Extra
